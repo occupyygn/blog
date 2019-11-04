@@ -298,3 +298,7 @@ comments:
     appid: # optional
     num_posts: # 5 (default)
     colorscheme: # "light" (default), "dark"
+
+toc: true
+toc_label: "Contents"
+toc_icon: "cog"
