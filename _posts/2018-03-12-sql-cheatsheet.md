@@ -1,3 +1,3 @@
 SQL Cheatsheet
 
-![Single Cheatsheet]({{ "/assets/images/my-sql/sql.png" | absolute_url }})
+![Single Cheatsheet]({{"/assets/images/my-sql/sql.png"}})
