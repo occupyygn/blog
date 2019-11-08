@@ -303,9 +303,12 @@ defaults:
 comments:
   provider: "facebook"
   facebook:
-    appid: # optional
+    appid: "414223212566792" # optional
     num_posts: # 5 (default)
     colorscheme: # "light" (default), "dark"
+    publisher:  "https://www.facebook.com/OccupyYangon/" # A Facebook page URL or ID of the publishing entity
+    username: "waiyanphyoe.x"  # https://www.facebook.com/michaelrose
+    og_image: /assets/images/logo.png
 
 toc: true
 toc_label: "Contents"
