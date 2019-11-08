@@ -106,8 +106,8 @@ analytics:
 
 # Site Author
 author:
-  name             : #"OccupyYangon"
-  avatar           : #"/assets/images/logo.svg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  name             : "OccupyYangon"
+  avatar           : "/assets/images/logo.svg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : # "I am **OccupyYangon**."
   location         : #"Yangon"
   email            :
