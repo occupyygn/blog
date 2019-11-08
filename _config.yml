@@ -85,12 +85,13 @@ naver_site_verification  :
 twitter:
   username               :
 facebook:
-  username               :
-  app_id                 :
-  publisher              :
-og_image                 : # Open Graph/Twitter default site image
+  username               : "waiyanphyoe.x"
+  app_id                 : "414223212566792" 
+  publisher              : "https://www.facebook.com/OccupyYangon/"
+  og_image               : "/assets/images/logo.png" # Open Graph/Twitter default site image
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
+
 social:
   type                   : # Person or Organization (defaults to Person)
   name                   : # If the user or organization name differs from the site's name
@@ -306,9 +307,6 @@ comments:
     appid: "414223212566792" # optional
     num_posts: # 5 (default)
     colorscheme: # "light" (default), "dark"
-    publisher:  "https://www.facebook.com/OccupyYangon/" # A Facebook page URL or ID of the publishing entity
-    username: "waiyanphyoe.x"  # https://www.facebook.com/michaelrose
-    og_image: /assets/images/logo.png
 
 toc: true
 toc_label: "Contents"
