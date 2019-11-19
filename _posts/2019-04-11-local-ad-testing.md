@@ -25,4 +25,6 @@ You expect that unrelated classes would implement your interface. For example, t
 You want to specify the behavior of a particular data type, but not concerned about who implements its behavior.
 You want to take advantage of multiple inheritances.
 
-Click Here -> link: https://techbase.software
+* Link sample 
+
+<a href="https://techbase.software">Click Here</a>
