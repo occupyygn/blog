@@ -25,6 +25,6 @@ You expect that unrelated classes would implement your interface. For example, t
 You want to specify the behavior of a particular data type, but not concerned about who implements its behavior.
 You want to take advantage of multiple inheritances.
 
-* Link sample 
+Link sample 
 
-<a href="https://techbase.software">Click Here</a>
+<a href="https://techbase.software"> ![Java Statments]({{ "https://i.postimg.cc/pTNCsGBH/banner-ad-online-shopping-html5-google-banner-ad-23-0efforttheme.jpg" | absolute_url }}) </a>
