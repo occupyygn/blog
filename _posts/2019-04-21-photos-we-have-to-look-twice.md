@@ -2,18 +2,14 @@
 
 ဟုတ်ပါတယ်။ ဒီဓါတ်ပုံတွေက သင့်ကို ၂ ခါထက်မနည်းကြည့်မိအောင်လုပ်ပါလိမ့်မယ်။ ဘာကြောင့်လဲဆို ကျွန်တော်တို့ဓါတ်ပုံရိုက်တဲ့အခါ မရည်ရွယ်ပဲ အချိန်ကိုက် အမှားလေးတွေကနေ ရယ်စရာပုံတွေအဖြစ် ပြောင်းသွားတတ်ကြပါတယ်။ ဒီပုံလေးတွေကို ကြည့်ကြည့်ပါဦး။ ဘယ်နေရာတွေမှားနေလဲ ? သင်ရော ဓါတ်ပုံရိုက်တဲ့အခါ အချိန်ကိုက်လေးတွေလွဲမှားသွားဖူးသလား ?
 
-
-
 ![Java Statments]({{ "https://i.postimg.cc/pTNCsGBH/banner-ad-online-shopping-html5-google-banner-ad-23-0efforttheme.jpg" | absolute_url }})
 
 https://postimg.cc/gallery/21q92mmje/
 
-![Java Statments]({{ "https://i.postimg.cc/pTNCsGBH/banner-ad-online-shopping-html5-google-banner-ad-23-0efforttheme.jpg" | absolute_url }})
 
-![Java Statments]({{ "https://i.postimg.cc/ZBDNfcQY/8.jpg" | absolute_url }})
+![Java Statments]({{ "https://postimg.cc/gallery/21q92mmje/" | absolute_url }})
 
 
-![Java Statments]({{ "https://i.postimg.cc/pTNCsGBH/banner-ad-online-shopping-html5-google-banner-ad-23-0efforttheme.jpg" | absolute_url }})
 
 [Zawgyi] နွစ္ခါျပန္ၾကည့္မွ နားလည္မည့္ဓာတ္ပံုမ်ား
 
