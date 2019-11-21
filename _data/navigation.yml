@@ -11,12 +11,12 @@ main:
   # - title: "Sitemap"
   #   url: /sitemap/
   - title: "Posts"
-    url: /posts/
+    url: /
   - title: "Categories"
-    url: /categories/
+    url: /
   - title: "Tags"
-    url: /tags/
+    url: /
   - title: "Pages"
-    url: /pages/
+    url: /
   - title: "Collections"
-    url: /collections/
+    url: /
