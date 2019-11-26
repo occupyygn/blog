@@ -1,7 +1,7 @@
 ---
 title: "Layout: Header Image Overlay testing by yo2n"
 header:
-  overlay_image: /assets/images/unsplash-image-1.jpg
+   ![Java Statments]({{ "https://i.postimg.cc/V64SbSkZ/http-com-ft-imagepublish-upp-prod-us-s3-amazonaws.jpg" | absolute_url }})
   caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
   actions:
     - label: "Call to action 1"
