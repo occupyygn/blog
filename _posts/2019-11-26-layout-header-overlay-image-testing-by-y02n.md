@@ -1,7 +1,6 @@
 ---
 title: "Layout: Header Image Overlay testing by yo2n"
 header:
-   ![Java Statments]({{ "https://i.postimg.cc/V64SbSkZ/http-com-ft-imagepublish-upp-prod-us-s3-amazonaws.jpg" | absolute_url }})
   caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
   actions:
     - label: "Call to action 1"
@@ -19,6 +18,8 @@ last_modified_at: 2016-05-02T11:39:01-04:00
 ---
 
 This post should display a **header with an overlay image**, if the theme supports it.
+
+![Java Statments]({{ "https://i.postimg.cc/fW9B6qD6/factfor-Orio-01.jpg" | absolute_url }})
 
 Non-square images can provide some unique styling issues.
 
