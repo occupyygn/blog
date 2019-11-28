@@ -33,3 +33,5 @@ Photos: The Guardian
 
 
 <a href="https://"> ![Java Statments]({{ "https://i.postimg.cc/pTNCsGBH/banner-ad-online-shopping-html5-google-banner-ad-23-0efforttheme.jpg" | absolute_url }}) </a>
+
+Thank you for visiting!
